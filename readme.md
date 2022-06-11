@@ -14,4 +14,7 @@ Stores the upload uri in Firebase Realtime database
 
 The PDFs are stored in the root directory on Storage.
 
+**View Images:** https://www.geeksforgeeks.org/how-to-view-all-the-uploaded-images-in-firebase-storage/amp/
+
+Shows the images in the images-Folder in a recyclerview
 
