@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "256052823523",
+    "project_id": "fir-storageuploadfiles",
+    "storage_bucket": "fir-storageuploadfiles.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256052823523:android:5c0094a92819d7d8df0cd6",
+        "android_client_info": {
+          "package_name": "de.androidcrypto.firebasestorageuploadfiles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256052823523-ifg0v6m7458mtn95mjkgjtgt3s7bg82g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPAqEUZGDWb6A_aBP7FNZW4R_1nWAESR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256052823523-ifg0v6m7458mtn95mjkgjtgt3s7bg82g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
